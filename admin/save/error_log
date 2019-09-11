@@ -1,0 +1,1 @@
+[09-Sep-2019 11:53:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/globalnineindone/public_html/pr/admin/save/s-po.php on line 19
